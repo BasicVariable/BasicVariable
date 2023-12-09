@@ -5,7 +5,7 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=BasicVariable&hide_rank=false&show_icons=true&bg_color=00000000)
   <br>
-  Barely use github, have only used it for creating documentation and posting small projects (when I started learning JS). I'm leaving all of my old stuff here with the hopes I come back and revise them, please don't judge my abilities off whatever 17/16yr old me left here. 
+  I've barely touched github, have only used it for creating documentation and posting small projects. I'm leaving all of my old stuff here with the hopes I come back and revise them, please don't judge my abilities off whatever 17-16yr old me left here. 
 </div>
 
 ---
