@@ -4,6 +4,8 @@
   <h3>A self taught web developer from Florida that really likes JS</h3>
 
   ![](https://github-readme-stats.vercel.app/api?username=BasicVariable&hide_rank=false&show_icons=true&bg_color=00000000)
+  <br>
+  Barely use github, have only used it for creating documentation and posting small projects (when I started learning JS). I'm leaving all of my old stuff here with the hopes I come back and revise them, please don't judge my abilities off whatever 17/16yr old me left here. 
 </div>
 
 ---
@@ -33,7 +35,6 @@
 <div align="center">
   <h3 align="center">Languages / Tools:</h3>
   <p align="center" style="padding: 0 50px;"> 
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
@@ -47,7 +48,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
   </p>
-finding those images took a while...
 </div>
 
 <div align="center">
