@@ -1,6 +1,8 @@
 <div align="center">
   <h3>A self taught web developer from Florida that really likes JS</h3>
-  <img src="https://tenor.com/view/ghibli-sea-ocean-waves-beach-gif-20438361">
+  <p>I really can't escape from Roblox projects, I swear I do other stuff too :(</p>
+  <div class="tenor-gif-embed" data-postid="20438361" data-share-method="host" data-aspect-ratio="1.98758" data-width="100%"><a href="https://tenor.com/view/ghibli-sea-ocean-waves-beach-gif-20438361">Ghibli Sea GIF</a>from <a href="https://tenor.com/search/ghibli-gifs">Ghibli GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  
 </div>
 
 ---
