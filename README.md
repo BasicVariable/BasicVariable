@@ -1,11 +1,15 @@
 <div align="center">
   <h3>A self taught web developer from Florida that really likes JS</h3>
-
-  <img src="https://c.tenor.com/nrxsL7xAR6IAAAAC/tenor.gif">
-  
   <p>My new years resolution is to escape from Roblox projects, I swear I do other stuff too :(</p>
 </div>
 
+---
+<div align="center">
+  <h3>I love talking with new people!</h3>
+  <p>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Discord_white.png?raw=true" width="40" height="40"> healthward | <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Discord_white.png?raw=true" width="40" height="40"> @i3asic 
+  </p>
+</div>
 ---
 
 <div align="center">
