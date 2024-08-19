@@ -8,7 +8,7 @@
   
   ---
   
-  Made a ton of things for Roblox, disapeared because most commissions are private, back again because of college assignments and I can't make a new Github because I already used my school's email for PRO on this account. 
+  Made a ton of things for Roblox (now mostly private), disapeared because most commissions are private, back again because of college assignments and I can't make a new Github because I already used my school's email for PRO on this account. 
   
   ---
 </div>
