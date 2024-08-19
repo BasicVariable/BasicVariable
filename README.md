@@ -5,12 +5,13 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=BasicVariable&hide_rank=false&show_icons=true&bg_color=00000000)
   <br>
-  Made a ton of things for Roblox, disapeared because most commissions are closed sourced, back again because of college assignments and I can't make a new one because I already used my school's email for github PRO on this account. 
+  
+  ---
+  
+  Made a ton of things for Roblox, disapeared because most commissions are private, back again because of college assignments and I can't make a new Github because I already used my school's email for PRO on this account. 
+  
+  ---
 </div>
-
----
-
----
 
 <div align="center">
   <h3 align="center">Languages / Tools:</h3>
