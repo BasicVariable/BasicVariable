@@ -8,7 +8,7 @@
   
   ---
   
-  Made a ton of things for Roblox (now mostly private), disapeared because most commissions are private, back again because of college assignments and I can't make a new Github because I already used my school's email for PRO on this account. 
+  Privated most older works as I don't think they reflect my current skills when it comes to web automation. Making all those bots was fun and I got to enjoy the community at its peak, but I'm having a better time being commissioned at the moment, though this isn't to say I won't write other things in the future! 
   
   ---
 </div>
