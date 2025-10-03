@@ -2,8 +2,6 @@
   
 
   <h3>A self taught web developer from Florida that really likes JS.</h3>
-
-  ![](https://github-readme-stats.vercel.app/api?username=BasicVariable&hide_rank=false&show_icons=true&bg_color=00000000)
   <br>
   
   ---
